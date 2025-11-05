@@ -10,7 +10,7 @@ This repository hosts the slide deck and a collection of interactive demos for m
   - MapLibre GL JS demos (e.g., simple map with styles, feature layers, vector tile layers, and GeoEnrichment (data enrichment) service)
   
 Check out the live demos here:  
-[CodePen Demos Collection](https://codepen.io/collection/EPVyZx)
+[CodePen Demos Collection](https://codepen.io/collection/MWbZjk)
 
 ## Prerequisites
 
