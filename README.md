@@ -6,7 +6,7 @@ This repository hosts the slide deck and a collection of interactive demos for m
 
 - **Slides:** The complete [slide deck](https://github.com/cyatteau/oredev25-open-source-mapping/blob/main/Slides.pdf) for the presentation.
 - **Demos:** A set of CodePen demos showcasing both Leaflet (and Esri Leaflet) and MapLibre GL JS examples:
-  - Leaflet demos (e.g., simple maps, GeoJSON layers, feature layers, geosearch, and Places Service)
+  - Leaflet demos (e.g., simple maps, GeoJSON layers, feature layers, geosearch, and Nominatim highlighting)
   - MapLibre GL JS demos (e.g., simple map with styles, feature layers, vector tile layers, and GeoEnrichment (data enrichment) service)
   
 Check out the live demos here:  
@@ -16,7 +16,6 @@ Check out the live demos here:
 
 - **ArcGIS API Key:**  
   Needed for accessing ArcGIS services in some demos. Quickly sign up and create your own key at [location.arcgis.com](https://location.arcgis.com).
-  - _NOTE:_ An ArcGIS Location Platform account is required for accessing the Places Service demo.
 
 ## About the Talk
 
