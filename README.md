@@ -16,6 +16,8 @@ Check out the live demos here:
 
 - **ArcGIS API Key:**  
   Needed for accessing ArcGIS services in some demos. Quickly sign up and create your own key at [location.arcgis.com](https://location.arcgis.com).
+- **MapTiler API Key:**
+  Needed for accessing MapTiler vector basemap tiles in the first MapLibre GL JS demo. Quickly sign up and create your own key at [cloud.maptiler.com](https://cloud.maptiler.com/account/keys/).
 
 ## About the Talk
 
